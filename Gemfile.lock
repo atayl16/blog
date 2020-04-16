@@ -186,7 +186,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  bootstrap-sass (~> 3.3.7)
+  bootstrap-sass (>= 3.3.0)
   byebug
   capybara (>= 2.15)
   coffee-rails (~> 4.2)
